@@ -95,6 +95,11 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - outputs will add slightly less with the difference representing the fee
 - proof of ownership of inputs and outputs are verified through digital signature
 
+**Transaction chains:
+- inputs from latest transaction correspond to outputs from previous transaction
+- the user's key provides signature to unlock previous transaction outputs
+- this proves to bitcoin network that the user owns the funds
+- the output also will require the user (recipient) to provide signature to receive amount
 
 
 
