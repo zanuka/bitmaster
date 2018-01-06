@@ -1,6 +1,6 @@
-# bitmaster
+# Ƀ bitmaster
 
-explorations in bitcoin :: blockchain :: ethereum :: dapps :: crypto
+explorations in Ƀitcoin :: decentralized trust networks
 
 ## Phase 1
 Notes from **Mastering Bitcoin**, by Andreas M. Antonopoulos
