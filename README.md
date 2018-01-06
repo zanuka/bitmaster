@@ -38,6 +38,17 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - this process decentralizes the currency-issuance and clearing functions of a central bank
 - it conveniently replaces the need for any central bank
 
+**The protocol:**
+- the included algorithms regulate mining function across network
+- dynamic adjustment occurs during the mining process 
+- this adjustment is the increase or decrease of difficulty of the processing task
+- the intent for the adjustment is to make it so every 10 minutes, a miner succeeds
+- by default, the protocol is also responsible for halving the rate at which new bitcoin are created
+- it also limits the total number of bitcoin to be mined to just below 21 million coins
+- this results in a predictable curve where the total bitcoin in circulation will max out in 2140
+- as time goes on the currency becomes deflationary due to lower rate of issuance
+- it cannot be inflated by printing new money 
+
 ### Bitcoin Uses, Users, Stories
 
 #### low-value retail
