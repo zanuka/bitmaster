@@ -47,7 +47,13 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - it also limits the total number of bitcoin to be mined to just below 21 million coins
 - this results in a predictable curve where the total bitcoin in circulation will max out in 2140
 - as time goes on the currency becomes deflationary due to lower rate of issuance
-- it cannot be inflated by printing new money 
+- it cannot be inflated by printing new money
+
+**The four key ingredients of Ƀitcoin:**
+- decentralized peer-to-peer network (the bitcoin protocol)
+- public transaction ledger (the blockchain)
+- set of rules for independent transaction validation and currency issuance (consensus rules)
+- tool for reaching global decentralized consensus on valid blockchain (Proof-of-Work algorithm)
 
 ### Bitcoin Uses, Users, Stories
 
