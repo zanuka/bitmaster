@@ -1,8 +1,42 @@
 # Ƀitmaster
-Explorations in Ƀitcoin :: decentralized trust networks.
-Notes from **Mastering Bitcoin**, by Andreas M. Antonopoulos
+
+#### Explorations in Ƀitcoin :: decentralized trust networks :: the open blockchain
+
+The purpose of this repo is to record my notes, summaries, thoughts, questions, and explorative research from **[Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://www.safaribooksonline.com/library/view/mastering-bitcoin-2nd/9781491954379/)**, by Andreas M. Antonopoulos. The official repository for the book is [https://github.com/bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook).
 
 ## Intro
+
+**What it is:**
+- collection of concepts and technologies that form the basis of a digital money ecosystem
+- used to store and transmit value among participants in the bitcoin network
+- users communicate with each other using the bitcoin protocol
+- bitcoin protocol stack is open source
+- it can be run on a wide range of computing devices
+
+**How it's used:**  
+- users transfer bitcoin over the network
+- like fiat money they can buy and sell goods, send money to people or organizations, or extend credit
+- it can be purchased, sold, and exchanged for other currencies at specialized currency exchanges
+- near perfect form of money for the internet because it is fast, secure, and borderless
+
+**Virtual by nature:**
+- bitcoin are entirely virtual, so there's no physical coins or even digital coins
+- coins are implied in transactions that transfer value from sender to recipient
+- users own keys that allow them to prove ownership of bitcoin in the bitcoin network
+- keys sign transactions to unlock the value and spend it by transferring it to a new owner
+- keys are often stored in a digital wallet on each user’s computer or smartphone
+- possession of the key that can sign a transaction is the only way to spend bitcoin
+- this puts the control entirely in the hands of each user
+
+**Distrubuted peer-to-peer system:**
+- no “central” server or point of control
+- Bitcoin are created through a process called “mining”
+- involves competing to find solutions to a mathematical problem while processing bitcoin transactions
+- anyone can be a miner if they're using a device running the full bitcoin protocol staci
+- they use their computer's processing power to verify and record transactions
+- miners validate the transactions of the past 10 minutes and are rewarded with a new bitcoin
+- this process decentralizes the currency-issuance and clearing functions of a central bank
+- it conveniently replaces the need for any central bank
 
 ### Bitcoin Uses, Users, Stories
 
