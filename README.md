@@ -1,9 +1,8 @@
-# Ƀ bitmaster
-
-explorations in Ƀitcoin :: decentralized trust networks
-
-## Phase 1
+# Ƀitmaster
+Explorations in Ƀitcoin :: decentralized trust networks.
 Notes from **Mastering Bitcoin**, by Andreas M. Antonopoulos
+
+## Intro
 
 ### Bitcoin Uses, Users, Stories
 
