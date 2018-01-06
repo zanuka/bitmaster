@@ -55,6 +55,20 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - set of rules for independent transaction validation and currency issuance (consensus rules)
 - tool for reaching global decentralized consensus on valid blockchain (Proof-of-Work algorithm)
 
+**The history:**
+- invented in 2008 by Satoshi Nakamoto
+- comprised of several prior invenctions (b-money, HashCash)
+- key innovation was using distributed computation system called "Proof of Work"
+- solves the problem of double-spend by having global election every 10 minutes
+- network officially started in 2009
+- mining algorithm now exceeds combined processing power of world's top supercomputers
+- Satoshi withdrew from public in 2011
+- volunteers now run the project
+- groundbreaking invention operating on mathematical prinicples, open source and consensus
+- solves the Byzantine Generals' Problem using Proof-of-Work to acheive consensus
+- total breakthrough in distributed computing
+- can be widely applied beyond just currency
+
 ### Bitcoin Uses, Users, Stories
 
 #### low-value retail
