@@ -108,3 +108,6 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - transaction fee is subtracted before remainder is sent to change address
 - change address can differ from origin address for enhanced privacy
 - chain of ownership created as value is moved from owner to owner
+
+**Common transaction forms...**
+
