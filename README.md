@@ -100,9 +100,11 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - the user's key provides signature to unlock previous transaction outputs
 - this proves to bitcoin network that the user owns the funds
 - the output also will require the user (recipient) to provide signature to receive amount
+- transactions simply move value from inputs to outputs
 
 **Change address:**
 - since transaction inputs cannot be divided, a change address is needed to handle balance
 - buying a $5 item with $20 will result in approximately $15 going to back to your change address
 - transaction fee is subtracted before remainder is sent to change address
 - change address can differ from origin address for enhanced privacy
+- chain of ownership created as value is moved from owner to owner
