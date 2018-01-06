@@ -87,13 +87,13 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - transactions inform network that owner has authorized transfer of a bitcoin value
 - transfers can then be made to another owner right down the chain
 
-**Inputs and Outputs**
+**Inputs and outputs:**
 - each transaction can have one or more inputs and outputs
 - inputs are debits against a bitcoin account
 - outputs are credits added to a bitcoin account
 - inputs and outputs don't add up to same amount due to transaction fees
 - outputs will add slightly less with the difference representing the fee
-- proof of ownership is verified through digital signature
+- proof of ownership of inputs and outputs are verified through digital signature
 
 
 
