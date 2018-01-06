@@ -69,21 +69,23 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - total breakthrough in distributed computing
 - can be widely applied beyond just currency
 
-### Bitcoin Uses, Users, Stories
+## How Bitcoin Works
 
-#### low-value retail
+**The system consists of the following:**
+- users with wallets that contain keys
+- transactions that are propagated across the network
+- miners who produce the consensus blockchain through competitive computation
+- this blockchain is the authoritative ledger of all transactions
 
-#### high-value retail
-
-#### contract services
-
-#### ecommerce
-
-#### charity
-
-#### import/export
-
-#### mining
+**Tracking transactions via blockchain explorer:**
+- blockchain explorers allow you to search for addresses, transactions and blocks
+- with explorers you're able to view where in the system the transactions are
+- search by bitcoin address, transaction hash, block number or block hash
+- retreiving info about transactions is simple
+- QR code can be scanned with a device
+- QR-encoded URL's contain destination address, payment amount and description 
+- transactions inform network that owner has authorized transfer of a bitcoin value
+- transfers can then be made to another owner right down the chain
 
 
 
