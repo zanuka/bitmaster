@@ -124,3 +124,13 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - outputs are also responsible for handling the change after main payment is complete
 - transaction fees are collected by the miner for validating and recording in blockchain
 - blockchain explorers allow user to view current state of the transaction
+
+**Adding to ledger - propagation:**
+- bitcoin network receives transmission of transaction
+- everything needed to process the transaction is included
+- it's destination within the network is not important 
+- the peer-to-peer nature connects client to other clients
+- propagation occurs when nodes receive valid transactions and then forward
+- known as _flooding_, the majority of nodes are rapidly propagated
+- transaction has been added and is now cemented in the blockchain forever
+
