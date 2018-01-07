@@ -111,7 +111,14 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 
 **Common transaction forms:**
 - most common is a simple payment that includes change returned to original owner
-- aggregating several inputs into a single output (wallet apps, payroll, distribution)
+- aggregating several inputs into a single output (wallet cleanup, small change stuff)
+- distrubution of funds like payroll where one input gets sent to multiple outputs
+
+**Constructing a transaction:**
+- input/output logic for transaction is set in wallet or exchange
+- can be done offline and signed once connected
+- before transaction can occur, inputs must be found by wallet
+- if user A pays user B, user B's wallet will lookup the output from user A's transaction
 
 
 
