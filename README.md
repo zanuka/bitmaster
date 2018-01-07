@@ -112,7 +112,7 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 **Common transaction forms:**
 - most common is a simple payment that includes change returned to original owner
 - aggregating several inputs into a single output (wallet cleanup, small change stuff)
-- distrubution of funds like payroll where one input gets sent to multiple outputs
+- distribution of funds like payroll where one input gets sent to multiple outputs
 
 **Constructing a transaction:**
 - input/output logic for transaction is set in wallet or exchange
