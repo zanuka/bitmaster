@@ -119,6 +119,8 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - can be done offline and signed once connected
 - before transaction can occur, inputs must be found by wallet
 - if user A pays user B, user B's wallet will lookup the output from user A's transaction
-
-
-
+- all unspent outputs can accessed via available APIs, cURL or asking a full-node
+- outputs contain scripts that indicate who can access output via key signature
+- outputs are also responsible for handling the change after main payment is complete
+- transaction fees are collected by the miner for validating and recording in blockchain
+- blockchain explorers allow user to view current state of the transaction
