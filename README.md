@@ -134,3 +134,17 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - known as _flooding_, the majority of nodes are rapidly propagated
 - transaction has been added and is now cemented in the blockchain forever
 
+**Mining:**
+- validates transactions utilizing _consensus rules_
+- secures bitcoin transactions by rejecting invalid or malformed transactions
+- create new bitcoin in each block
+- amount per block is limited, diminishing over time
+- uses electricity to solve mathematical problem
+- miners earn new bitcoins as a reward
+- reward only collected if all transactions are validated
+- difficulty of miner's puzzle is adjusted accordingly
+- first miner to find solution wins the round and published block to blockchain
+
+
+
+
