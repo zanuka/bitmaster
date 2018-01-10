@@ -148,6 +148,19 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 **Mining transactions in blocks:**
 - unverified transactions are added to new blocks
 - miners can then mine the block once previous block from network is received
+- new block is created and filled with transactions
+- fingerprint of previous block is also included in new block
+- Proof-of-Work calculations begin
+- a special transaction is also added to the block to pay miner for reward
+- miners utilize mining pools that contain a _candidate block_
+- _candidate blocks_ represent transactions picked up by network that need validation
+- once solution is found for candidate block it's announced to network
+- it's then validated by other miners
+- the process starts again, new race to generate the next block
+- as block height increases, so does the computation difficutly
+- a block with six confirmations is irrevocable
+- too much computational power would be needed to recalculate six blocks 
+- more trust is built
 
 
 
