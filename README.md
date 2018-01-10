@@ -148,8 +148,6 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 **Mining transactions in blocks:**
 - unverified transactions are added to new blocks
 - miners can then mine the block once previous block from network is received
-- once solutions are found, the miner wins that block as reward
-- reward block is then added to global blockchain and is now spendable
 
 
 
