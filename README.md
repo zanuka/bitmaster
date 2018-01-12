@@ -172,6 +172,15 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - through the simple and secure SPV system, spending can happen quickly
 - transactions build up the ownership chain
 
+## Bitcoin Core: The Reference Implementation
+Also known as "Satoshi client" the Bitcoin has evolved into Bitcoin Core in order to differentiate it from other compatible implementations. Bitcoin Core is the defacto _reference implementation_ of the bitcoin system. It's the holy grail so to speak on all aspects of bitcoin, including: 
+- wallets
+- transaction and block validation engine
+- full network node in p2p bitcoin network
+
+
+
+
 
 
 
