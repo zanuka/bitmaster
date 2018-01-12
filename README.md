@@ -162,7 +162,7 @@ The purpose of this repo is to record my notes, summaries, thoughts, questions, 
 - too much computational power would be needed to recalculate six blocks 
 - more trust is built
 
-Spending the transaction:
+**Spending the transaction:**
 - once embedded in block on the chain it is now spendable
 - full-node clients can trace the funds back to moment it was generated
 - Simplified Payment Verification can be utilized by lightweight clients
@@ -171,6 +171,10 @@ Spending the transaction:
 - SPV provides confirmations through (PoW) that additional blocks are being added
 - through the simple and secure SPV system, spending can happen quickly
 - transactions build up the ownership chain
+
+
+
+
 
 
 
